@@ -12,18 +12,18 @@
     "scripts": {
         "start": "node index.js",
         "cli": "node . --optimize_for_size --max_old_space_size=460 index.js",
-        "db": "node . --autocleartmp --db 'mongodb+srv://Yovanihades1212:Akhmad6825@cluster0.mflne.mongodb.net/HADES-BOT-MDV2?retryWrites=true&w=majority'"
+        "db": "node . --autocleartmp --db 'mongodb+srv://Yovanihades1212:Akhmad6825@cluster0.mflne.mongodb.net/Botwa?retryWrites=true&w=majority'"
     },
     "homepage": "hadesbot",
     "author": {
         "name": "hades"
     },
     "repository": {
-        "type": "https://github.com/Yovanihades1212/HADES-BOT-MDV2.git",
-        "url": "https://github.com/Yovanihades1212/HADES-BOT-MDV2.git"
+        "type": "https://github.com/ysebas19/Botwa",
+        "url": "https://github.com/ysebas19/Botwa"
     },
     "bugs": {
-        "url": "https://github.com/Yovanihades1212/HADES-BOT-MDV2/issues"
+        "url": "https://github.com/Yovanihades1212/Botwa/issues"
     },
     "license": "MIT",
     "dependencies": {
