@@ -40,12 +40,12 @@
 ```bash
 ┌「𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝙲𝙸𝙾𝙽 」─
 ├❏Si el termux se cierra para volver activar escribe:
-├❏cd HADES-BOT-MDV2 
+├❏cd Botwa 
 ├❏npm start 
 ├❏───ׂ─ׂ─ׂ─ׂ─」
 ├❏ Para obtener nuevamente el 
 ├❏codigo QR, escribe en el termux:
-├❏cd HADES-BOT-MDV2 
+├❏cd Botwa
 ├❏rm -rf session.data.json
 ├❏npm start 
 ├❏───ׂ─ׂ─ׂ─ׂ─」
@@ -72,5 +72,5 @@ excesivamente lento (depende del
 
 
 
-`YOVANI___HADES-BOT-MD"` 
+`sebas___Botwa"` 
 ```
