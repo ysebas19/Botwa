@@ -27,8 +27,8 @@
 ├❏pkg install ffmpeg -y
 ├❏pkg install imagemagick -y
 ├❏termux-setup-storage
-├❏git clone https://github.com/Yovanihades1212/HADES-BOT-MDV2.git
-├❏cd HADES-BOT-MDV2
+├❏git clone https://github.com/ysebas19/Botwa
+├❏cd Botwa
 ├❏npm install
 ├❏pkg install yarn
 ├❏npm update
